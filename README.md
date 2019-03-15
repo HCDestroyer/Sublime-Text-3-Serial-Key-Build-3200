@@ -1,4 +1,6 @@
 # Sublime Text 3 Serial Key Build 3200
+Directory "C:\Windows\System32\drivers\etc"
+
 Add this entry to host file:
 
 127.0.0.1    license.sublimehq.com
